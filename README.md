@@ -7,7 +7,7 @@
 
 # Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
-🎓 Studied [Sistem Informasi] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
+🎓 Studied [Information System] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
 🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
 💭 Currently learning about data analytics!<br/>
 
@@ -35,4 +35,4 @@
 ### Know More About Me :
 [![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)
 [![Instagram Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram1.svg)](https://www.instagram.com/dimassrzkiii/)
-[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/ymoricode)<br/><br/>
+[![Github Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg)](https://github.com/ymorii)<br/><br/>
