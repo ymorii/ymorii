@@ -1,11 +1,10 @@
 <!-- Level 3: Add custom code -->
-<div align="center">
-    <img src="assets/gyj.gif" alt="GIF" style="width: 360px;">
-</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dimas+Rizki!;&color=8A2BE2" />
+</h1>
 
 
-
-# Hi, I'm Dimas Rizki! 👋
 👩🏻‍💻 Software Engineer<br/>
 🎓 Studied [Information System] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
 🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
