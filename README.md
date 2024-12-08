@@ -22,11 +22,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/wordpress/plugin/required-php/:slug)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234F76A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-%23339933.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<a href='https://nodejs.org/en' target="_blank"><img alt='nodedotjs' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg'/></a>
-<a href='https://getbootstrap.com' target="_blank"><img alt='bootstrap' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Bootstrap/bootstrap1.svg'/></a>
 
 ### Software I use for daily life :
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
