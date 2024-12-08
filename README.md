@@ -9,7 +9,7 @@
 👩🏻‍💻 Software Engineer<br/>
 🎓 Studied [Information System] at the Universitas Ibn Khaldun Bogor, Indonesia<br/>
 🎨 Sharing about Computer Science, tech, and productivity on [LinkedIn](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)<br/>
-💭 Currently learning about data analytics!<br/>
+💭 I'm currently learning **Frontend Development** and exploring tools like **Figma** to improve my design skills and build beautiful, functional web applications. <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymorii&show_icons=true&theme=tokyonight)
