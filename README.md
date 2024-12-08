@@ -11,7 +11,6 @@
 💭 I'm currently learning **Frontend Development** and exploring tools like **Figma** to improve my design skills and build beautiful, functional web applications. <br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymorii&show_icons=true&theme=tokyonight)
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -30,6 +29,12 @@
 ### Software I use for daily life :
 <a href='https://chrome.google.com' target="_blank"><img alt='canva' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg'/></a>
 <a href='https://vscode.dev' target="_blank"><img alt='visualstudiocode' src='https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg'/></a>
+
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymorii&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymorii&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Know More About Me :
 [![Linkedin Badge](https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg)](https://www.linkedin.com/in/dimas-rizki-dwi-saputra/)
